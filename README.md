@@ -1,5 +1,7 @@
 # My Awesome Book
 
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 后端架构师技能集合
 
 本人之前在自己的有道云笔记上，整理过一个知识点的笔记，直到有一天遇到了在github上遇到了[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)，让我有了把自己笔记搬到github的想法。
