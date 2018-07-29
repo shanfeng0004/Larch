@@ -4,7 +4,7 @@
 
 # 代码示例
 
-```cpp
+```c
 #include <stdio.h>
 
 int print(int a[], int n);
