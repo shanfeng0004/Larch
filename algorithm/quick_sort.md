@@ -1,9 +1,10 @@
 # 原理分析
+
 [图解快速排序](https://www.cnblogs.com/MOBIN/p/4681369.html)
+
 # 代码示例
 
-
-```
+```cpp
 #include <stdio.h>
 
 int print(int a[], int n);
@@ -53,4 +54,6 @@ int main()
     print(a, 7);
 }
 ```
+
+
 
