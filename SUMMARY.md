@@ -30,7 +30,7 @@
     * [快速排序](algorithm/quick_sort.md)
     * 归并排序
     * 希尔排序
-    * 堆排序
+    * [堆排序](algorithm/heap_sort.md)
     * 计数排序
     * 桶排序
     * 基数排序
