@@ -8,7 +8,8 @@
 
 本repo高度借鉴了[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)的方法和知识点，在此向原创各位大神表示膜拜
 
-** 所有引用内容版权归原作者所有**
+** 所有引用内容版权归原作者所有 **
+
 
 [目录](SUMMARY.md)
 
