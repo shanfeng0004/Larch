@@ -26,9 +26,9 @@
   * 排序、查找算法
     * 选择排序
     * 冒泡排序
-    * [插入排序](algorithm/cha-ru-pai-xu.md)
+    * 插入排序
     * [快速排序](algorithm/quick_sort.md)
-    * [归并排序](algorithm/gui-bing-pai-xu.md)
+    * [归并排序](algorithm/merge_sort.md)
     * 希尔排序
     * [堆排序](algorithm/heap_sort.md)
     * 计数排序
