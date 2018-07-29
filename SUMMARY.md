@@ -26,9 +26,9 @@
   * 排序、查找算法
     * 选择排序
     * 冒泡排序
-    * 插入排序
+    * [插入排序](algorithm/cha-ru-pai-xu.md)
     * [快速排序](algorithm/quick_sort.md)
-    * 归并排序
+    * [归并排序](algorithm/gui-bing-pai-xu.md)
     * 希尔排序
     * [堆排序](algorithm/heap_sort.md)
     * 计数排序
@@ -347,6 +347,4 @@
   * 文件服务
   * 综合云服务商
     * VPS
-
-
 
