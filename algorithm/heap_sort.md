@@ -1,11 +1,13 @@
 # 原理分析
-[图解堆排序](https://www.cnblogs.com/MOBIN/p/5374217.html)
-# 代码示例 
 
+[图解堆排序](https://www.cnblogs.com/MOBIN/p/5374217.html)
+
+# 代码示例
 
 ```c
 #include <stdio.h>
 
+// 调整堆，保持大根堆属性
 void adjust(int a[], int pos, int n)
 {
     int max = pos;
@@ -34,6 +36,7 @@ void adjust(int a[], int pos, int n)
     }
 }
 
+// 构建堆
 void build(int a[], int n)
 {
     int pos = n/2 - 1;
@@ -42,6 +45,7 @@ void build(int a[], int n)
     }
 }
 
+// 堆排序
 void heap_sort(int a[], int n)
 {
     build(a, n); 
@@ -51,7 +55,7 @@ void heap_sort(int a[], int n)
         a[i-1] = a[0];
         a[0] = tmp;
         i--;
-        adjust(a, 0, i); 
+        adjust(a, 0, i);  // 输出第n-1个元素后，需要重新调整n-1个元素
     }
 }
 
@@ -71,4 +75,6 @@ int main()
     print(a, 7);
 }
 ```
+
+
 

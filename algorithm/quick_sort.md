@@ -8,6 +8,8 @@
 #include <stdio.h>
 
 int print(int a[], int n);
+
+// 查找pivot
 int find_key(int a[], int begin, int end)
 {
     int key = a[begin];
@@ -29,6 +31,7 @@ int find_key(int a[], int begin, int end)
     return i;
 }
 
+// 快排
 int quick_sort(int a[], int begin, int end)
 {
     if (begin < end) {
