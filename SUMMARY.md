@@ -200,6 +200,16 @@
     * Java NIO
     * kqueue
   * 连接和短连接
+  * 三次握手，四次挥手
+  * reset触发时机
+  * TIME_WAIT,CLOSE_WAIT
+  * shutdown和close区别
+  * nagle算法和NO_DELAY开关
+  * SO_LINGER选项
+  * 大小端
+  * TCP & UDP
+  * 如果select返回可读，结果只读到0字节，什么情况(对端关闭)
+  * 滑动窗口
   * 框架
   * 零拷贝（Zero-copy）
   * 序列化
