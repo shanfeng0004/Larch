@@ -13,9 +13,9 @@
     * gdb
     * 如何实现守护进程
     * 标准库函数和系统调用的区别
-    * 推荐书籍
+    * [推荐书籍](language/cplusplus/recommand_book.md)
   * golang
-    * 推荐书籍
+    * [推荐书籍](language/golang/recommand_book.md)
   * python
   * java
   * php
@@ -279,6 +279,8 @@
     * Logback
   * ORM
   * 网络框架
+    * libevent
+    * muduo
   * Web 框架
     * Spring 家族
   * 工具框架
