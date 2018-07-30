@@ -56,8 +56,8 @@
     * [归并排序](algorithm/merge_sort.md)
     * 希尔排序
     * [堆排序](algorithm/heap_sort.md)
-    * 计数排序
-    * 桶排序
+    * [计数排序](algorithm/count_sort.md)
+    * [桶排序](algorithm/bucket_sort.md)
     * 基数排序
     * 二分查找
     * Java 中的排序工具
