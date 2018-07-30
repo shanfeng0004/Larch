@@ -93,7 +93,7 @@
     * 悲观锁
     * 乐观锁 & CAS
     * ABA 问题
-    * CopyOnWrite容器
+    * CopyOnWrite
     * RingBuffer
     * 可重入锁 & 不可重入锁
     * 互斥锁 & 共享锁
