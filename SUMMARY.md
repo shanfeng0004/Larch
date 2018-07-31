@@ -59,7 +59,7 @@
     * [计数排序](algorithm/count_sort.md)
     * [桶排序](algorithm/bucket_sort.md)
     * 基数排序
-    * 二分查找
+    * [二分查找](algorithm/binary_search.md)
     * Java 中的排序工具
   * 布隆过滤器
   * 字符串
