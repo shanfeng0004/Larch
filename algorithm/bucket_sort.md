@@ -8,7 +8,9 @@
 
 # 原理分析
 
-\[桶排序分析\]\(https://www.cnblogs.com/ECJTUACM-873284962/p/6935506.html\)
+[桶排序分析](
+https://www.cnblogs.com/ECJTUACM-873284962/p/6935506.html\
+)
 
 # 代码示例
 
