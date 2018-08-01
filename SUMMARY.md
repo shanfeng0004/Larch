@@ -129,7 +129,7 @@
     * Ansible
     * puppet
     * chef
-  * 测
+  * 测试
     * TDD 理论
     * 单元测试
     * 压力测试
