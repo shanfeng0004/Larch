@@ -49,7 +49,7 @@
   * BitSet
 * 常用算法
   * 排序、查找算法
-    * 选择排序
+    * [选择排序](algorithm/select_sort.md)
     * 冒泡排序
     * 插入排序
     * [快速排序](algorithm/quick_sort.md)
@@ -58,7 +58,7 @@
     * [堆排序](algorithm/heap_sort.md)
     * [计数排序](algorithm/count_sort.md)
     * [桶排序](algorithm/bucket_sort.md)
-    * 基数排序
+    * [基数排序](algorithm/radix_sort.md)
     * [二分查找](algorithm/binary_search.md)
     * Java 中的排序工具
   * 布隆过滤器
