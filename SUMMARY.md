@@ -54,7 +54,7 @@
     * 插入排序
     * [快速排序](algorithm/quick_sort.md)
     * [归并排序](algorithm/merge_sort.md)
-    * 希尔排序
+    * [希尔排序](algorithm/shell_sort.md)
     * [堆排序](algorithm/heap_sort.md)
     * [计数排序](algorithm/count_sort.md)
     * [桶排序](algorithm/bucket_sort.md)
