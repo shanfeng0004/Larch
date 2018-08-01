@@ -51,7 +51,7 @@
   * 排序、查找算法
     * [选择排序](algorithm/select_sort.md)
     * 冒泡排序
-    * 插入排序
+    * [插入排序](algorithm/insert_sort.md)
     * [快速排序](algorithm/quick_sort.md)
     * [归并排序](algorithm/merge_sort.md)
     * [希尔排序](algorithm/shell_sort.md)
