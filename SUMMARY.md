@@ -163,6 +163,7 @@
     * Redis
       * 架构
       * 回收策略
+      * 主从/sentinel/cluster
     * Tair
   * 消息队列
     * 消息总线
