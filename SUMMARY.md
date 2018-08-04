@@ -40,7 +40,7 @@
     * trie树
     * B-，B+，B\*树
     * LSM 树
-    * redix 树
+    * [redix 树](data_structure/tree/radix_tree.md)
   * 图
     * 有向
     * 无向
