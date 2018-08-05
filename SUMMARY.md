@@ -219,6 +219,7 @@
   * 序列化
     * Hessian
     * Protobuf
+  * [推荐书籍](net/recommand_book.md)
 * 数据库
   * 基础理论
     * 数据库设计的三大范式
