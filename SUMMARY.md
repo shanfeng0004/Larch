@@ -158,8 +158,6 @@
     * Jetty
   * 缓存
     * 本地缓存
-  * 客户端缓存
-  * 服务端缓存
     * Web缓存
     * Memcached
     * Redis
