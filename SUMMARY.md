@@ -165,6 +165,7 @@
         * [流程图](midware/redis/arch/redis_flow_chart.png)
       * 回收策略
       * 主从/sentinel/cluster
+      * [推荐书籍](midware/redis/recommand_book.md)
     * Tair
   * 消息队列
     * 消息总线
