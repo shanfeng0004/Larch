@@ -162,6 +162,7 @@
     * Memcached
     * Redis
       * 架构
+        * [流程图](midware/redis/arch/redis_flow_chart.png)
       * 回收策略
       * 主从/sentinel/cluster
     * Tair
