@@ -48,7 +48,7 @@
     * 深度优先
     * 最短路径: dijkstra/floyd
   * BitSet
-* 常用算法
+* [常用算法](chang-yong-suan-fa.md)
   * 排序、查找算法
     * [选择排序](algorithm/select_sort.md)
     * [冒泡排序](algorithm/bubble_sort.md)
@@ -397,6 +397,4 @@
   * 文件服务
   * 综合云服务商
     * VPS
-
-
 
