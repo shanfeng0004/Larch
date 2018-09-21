@@ -65,10 +65,11 @@
   * 布隆过滤器
   * 字符串
     * 字符串比较：KMP 算法
-  * 数字
-    * 最长递增子序列
+  * [数字](chang-yong-suan-fa/shu-zi.md)
+    * [最长递增子序列](chang-yong-suan-fa/zui-chang-di-zeng-zi-xu-lie.md)
     * 最大子序列
     * 数组中最长递减子序列
+    * topN
   * 深度优先、广度优先
   * 贪心算法
   * 回溯算法
@@ -120,7 +121,7 @@
   * UML
   * 微服务思想
     * 康威定律
-* 运维 & 统计 & 技术支持
+* [运维 & 统计 & 技术支持](yun-wei-and-tong-ji-and-ji-zhu-zhi-chi.md)
   * 常规监控
   * APM
   * 统计分析
