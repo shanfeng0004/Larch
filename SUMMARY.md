@@ -92,18 +92,13 @@
     * MVCC
     * BASE
   * 锁
-
     * Java中的锁和同步类
     * 公平锁 & 非公平锁
     * 悲观锁
-    * 乐观锁 & CAS & ABA 问题
-
+    * [乐观锁 & CAS & ABA 问题](concurrent/lock/cas.md)
     * lock free 队列
-
     * CopyOnWrite
-
     * RingBuffer
-
     * 可重入锁 & 不可重入锁
     * 互斥锁 & 共享锁
     * 死锁
@@ -120,6 +115,7 @@
   * proc目录
 
 * 设计模式
+
   * 设计模式的六大原则
   * 23种常见设计模
   * 应用场景
@@ -131,6 +127,7 @@
   * UML
   * 微服务思想
     * 康威定律
+
 * [运维 & 统计 & 技术支持](yun-wei-and-tong-ji-and-ji-zhu-zhi-chi.md)
   * 常规监控
   * APM
