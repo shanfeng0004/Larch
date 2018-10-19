@@ -116,7 +116,7 @@
   * 设计模式的六大原则
   * [设计原则](design_pattern/principle.md)
   * 23种常见设计模式
-  * 应用场景
+  * [图说设计模式](design_pattern/article.md)
   * 单例模式
   * 责任链模式
   * MVC
